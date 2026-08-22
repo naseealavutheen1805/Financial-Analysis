@@ -1,25 +1,25 @@
-# Credit Card Weekly Status Report – Power BI
+# Finance Group – Financial Dashboard | Power BI
 
-An interactive **Power BI dashboard** analyzing credit card customers, transactions, spending patterns, revenue, utilization, and delinquency.
+An interactive **Power BI Financial Dashboard** developed to analyze the company's financial health, revenue, profitability, cash flow, sales performance, and receivables.
 
-## Dashboards
+## Dashboard Pages
 
-### 1. Customer Dashboard
-
-* Total Customers
-* Average Income
-* Average Utilization Ratio
-* Delinquency Rate
-* Customer analysis by Age Group, Income Group, Card Category, and Demographics
-
-### 2. Transaction Dashboard
+### 1. Overview
 
 * Total Revenue
-* Current & Previous Week Revenue
-* WoW Revenue Growth %
-* Spending by Expense Type
-* Weekly Revenue Trends
-* Transaction analysis by Usage Channel
+* Gross Margin %
+* EBITDA %
+* Net Cash
+* Budget Variance %
+* Revenue & Profit Trends
+* Budget vs Actual Analysis
+
+### 2. Sales & Receivables
+
+* Cash Flow Waterfall
+* Product vs Service Performance
+* Regional Performance
+* Receivables Aging
 
 ## Tools Used
 
@@ -31,12 +31,22 @@ An interactive **Power BI dashboard** analyzing credit card customers, transacti
 
 ## Key Insights
 
-* Blue-tier cards represent **91% of customers**.
-* The **41–50 age group** represents approximately **46% of customers**.
-* Bills, Entertainment, and Fuel are the top spending categories.
-* Swipe transactions account for approximately **63%** of card usage.
-* Weekly revenue ranges from approximately **$0.93M to $1.24M**.
+* Total Revenue: **$23.6M**
+* Gross Margin: **45.5%**
+* EBITDA Margin: **24.8%**
+* North and East generated the highest revenue.
+* Budget Variance was approximately **-24%**.
+* Overall Net Cash was **+$688K**.
+* Average Receivables Aging was **29 days**.
+
+## Key Features
+
+* Month / Quarter / Year filters
+* Region and Product/Service filters
+* Interactive drill-through
+* DAX-based KPI calculations
+* Monthly financial trend analysis
 
 ## Skills Demonstrated
 
-**Power BI | DAX | Power Query | Data Modeling | Data Visualization | Business Analytics**
+**Power BI | DAX | Power Query | Data Modeling | Financial Analysis | Data Visualization**
